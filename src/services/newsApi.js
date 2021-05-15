@@ -15,7 +15,7 @@ export const newsSearch = async (searchQuery) => {
     const res = await fetch(`https://newsapi.org/v2/everything?q=${searchQuery}&apiKey=${process.env.newsApi}`);
 
     const { articles } = await res.json();
-console.log(searchQuery)
+
     return articles.map((article) => ({
         title: article.title,
         author: article.author,
