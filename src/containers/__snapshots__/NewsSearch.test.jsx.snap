@@ -597,6 +597,25 @@ Array [
     aria-label="article"
   >
     <a
+      href="https://mashable.com/article/elon-musk-tesla-suspends-bitcoin/"
+    >
+      <h3>
+        Elon Musk says Bitcoin no longer accepted for Tesla purchases
+      </h3>
+      <h4>
+        Sasha Lekach
+      </h4>
+      <p>
+        Tesla CEO Elon Musk has changed his stance on cryptocurrency.
+Back in March, Musk announced Tesla was accepting Bitcoin for its electric cars. Earlier this year the EV company even bought $1.5 billion of the cryptocurrency.
+On Wednesday afternoon, that all en…
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
       href="https://mashable.com/article/tesla-solar-roof-powerwall-bundle/"
     >
       <h3>
@@ -627,25 +646,6 @@ According to Tesla Technoking and Imperator of Mars (check his Twitter bio) Elon
       </h4>
       <p>
         Cryptocurrencies, Mars colonization, and an unpronounceable child's name may have dominated Elon Musk's first Saturday Night Live appearance, but the Tesla CEO's influence on electric vehicles was clear from the ads that popped up during the late-night progra…
-      </p>
-    </a>
-  </li>,
-  <li
-    aria-label="article"
-  >
-    <a
-      href="https://mashable.com/article/elon-musk-tesla-suspends-bitcoin/"
-    >
-      <h3>
-        Elon Musk says Bitcoin no longer accepted for Tesla purchases
-      </h3>
-      <h4>
-        Sasha Lekach
-      </h4>
-      <p>
-        Tesla CEO Elon Musk has changed his stance on cryptocurrency.
-Back in March, Musk announced Tesla was accepting Bitcoin for its electric cars. Earlier this year the EV company even bought $1.5 billion of the cryptocurrency.
-On Wednesday afternoon, that all en…
       </p>
     </a>
   </li>,
