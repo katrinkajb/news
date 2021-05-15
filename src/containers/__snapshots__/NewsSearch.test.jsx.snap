@@ -1,0 +1,721 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`search page displays a list of news articles, updating results based on user input 1`] = `
+<ul
+  aria-label="article-list"
+>
+  <h1>
+    The News
+  </h1>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-are-1846843419"
+    >
+      <h3>
+        The Out-of-Touch Adults' Guide To Kid Culture: What Are Squishmallows?
+      </h3>
+      <h4>
+        Stephen Johnson
+      </h4>
+      <p>
+        This week, I’m breaking down some of the biggest youth internet trends in a way even graybeards can grasp, from esoteric financial instruments, to a vast fast-food conspiracy, to a look at some of TikTok’s most notable time travelers.Read more...
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.engadget.com/the-morning-after-debris-chinas-largest-rocket-crash-indian-ocean-113038104.html"
+    >
+      <h3>
+        The Morning After: Debris from China's largest rocket crashes into Indian Ocean
+      </h3>
+      <h4>
+        https://www.engadget.com/about/editors/mat-smith
+      </h4>
+      <p>
+        Dogecoin price crashes after Elon Musk's 'Saturday Night Live' appearance, Chinese rocket debris falls into Indian Ocean, and only 4 percent of US iPhone users have agreed to app tracking after iOS 14.5..
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.nytimes.com/2021/05/14/podcasts/the-daily/dogecoin-cryptocurrency-bitcoin.html"
+    >
+      <h3>
+        A Conversation With a Dogecoin Millionaire
+      </h3>
+      <h4 />
+      <p>
+        It was once a parody — then he turned the cryptocurrency into his profit.
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://mashable.com/article/dogecoin-cryptocurrency-explainer/"
+    >
+      <h3>
+        Dogecoin: Everything you need to know about the cryptocurrency
+      </h3>
+      <h4>
+        Stan Schroeder
+      </h4>
+      <p>
+        We're going to the moon. 
+The proponents of Dogecoin or DOGE, a cryptocurrency that started as a joke but is now one of the most popular coins around, would have you believe that the sentence above is all you need to know about Dogecoin. 
+In a way, they'd be …
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://mashable.com/article/cryptocurrency-dogecoin-soars-bubble/"
+    >
+      <h3>
+        Dogecoin is mooning, and we're listening for the popping sound
+      </h3>
+      <h4>
+        Jack Morse
+      </h4>
+      <p>
+        With dogecoin back in the news, the bubble pop can't be far behind. 
+The cryptocurrency, which was explicitly created as a parody of crypto in 2013, is on an epic run. As of Saturday, a single dogecoin was worth approximately $0.30 according to CoinMarketCap.…
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.engadget.com/elon-musk-bitcoin-221708146.html"
+    >
+      <h3>
+        Tesla 'suspends' Bitcoin car purchases citing environmental impact
+      </h3>
+      <h4>
+        https://www.engadget.com/about/editors/richard-lawler
+      </h4>
+      <p>
+        You can't buy a Tesla with Bitcoin anymore..
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="http://techcrunch.com/2021/05/10/equity-monday-dogecoin-is-passe-but-student-notes-are-big-business/"
+    >
+      <h3>
+        Equity Monday: Dogecoin is passé, but student notes are big business
+      </h3>
+      <h4>
+        Alex Wilhelm
+      </h4>
+      <p>
+        Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest private market news, talks about the coming week, digs into some …
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://mashable.com/article/elon-musk-tesla-suspends-bitcoin/"
+    >
+      <h3>
+        Elon Musk says Bitcoin no longer accepted for Tesla purchases
+      </h3>
+      <h4>
+        Sasha Lekach
+      </h4>
+      <p>
+        Tesla CEO Elon Musk has changed his stance on cryptocurrency.
+Back in March, Musk announced Tesla was accepting Bitcoin for its electric cars. Earlier this year the EV company even bought $1.5 billion of the cryptocurrency.
+On Wednesday afternoon, that all en…
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://mashable.com/article/elon-musk-doge-tesla/"
+    >
+      <h3>
+        Elon Musk is thinking about letting customers buy a Tesla with DOGE
+      </h3>
+      <h4>
+        Stan Schroeder
+      </h4>
+      <p>
+        Elon Musk really, REALLY likes Dogecoin. 
+After endlessly shilling the joke cryptocurrency on Twitter, in interviews and on television, and after announcing that his company SpaceX will literally send a satellite named Doge-1 to the moon, Musk now seems to be…
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.nytimes.com/2021/05/09/arts/television/elon-musk-snl.html"
+    >
+      <h3>
+        Elon Musk Hosts a Mother’s Day Episode of ‘Saturday Night Live’
+      </h3>
+      <h4>
+        Dave Itzkoff
+      </h4>
+      <p>
+        The much-discussed Tesla and SpaceX executive took a self-deprecating approach, telling viewers, “I’m pretty good at running human in emulation mode.”
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.theverge.com/2021/5/7/22424877/elon-must-snl-bingo-game-saturday-night-live"
+    >
+      <h3>
+        What would a billionaire do on SNL?
+      </h3>
+      <h4>
+        Verge Staff
+      </h4>
+      <p>
+        This weekend, Tesla CEO Elon Musk will take the stage of the long-running variety show usually reserved for actors and comedians. With the wind of meme crypto at his back, The Verge staff made our best guesses of what to expect.
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://gizmodo.com/elon-musk-backpedals-on-the-doge-hype-48-hours-before-s-1846845247"
+    >
+      <h3>
+        Elon Musk Backpedals on the Doge Hype 48 Hours Before SNL Appearance
+      </h3>
+      <h4>
+        Whitney Kimball
+      </h4>
+      <p>
+        Elon Musk, richer than God and therefore a trusted source of investment advice for mortals, has pivoted now to offer some sober advice about the dangers of meme currencies. He provides previously unshared information: Doge’s only tangible value is hype, and H…
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://gizmodo.com/coinbase-says-screw-it-well-let-you-buy-doge-1846897281"
+    >
+      <h3>
+        Coinbase Says Screw It, We'll Let You Buy Doge
+      </h3>
+      <h4>
+        Whitney Kimball
+      </h4>
+      <p>
+        The cryptocurrency exchange platform Coinbase has caved. After a long silence to the hoards imploring the company to let them trade Dogecoin, they’ve decided to list the meme, adding a sheen of legitimacy to a cryptocurrency with limitless supply, which whale…
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.reuters.com/technology/dogecoin-surges-record-high-up-almost-300-week-2021-04-16/"
+    >
+      <h3>
+        Dogecoin surges to record high, up almost 300% in a week - Reuters
+      </h3>
+      <h4>
+        Reuters
+      </h4>
+      <p>
+        The Dogecoin cryptocurrency surged more than 90% to a record high on Friday, putting its gain for the week at almost 300%.
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.reuters.com/article/crypto-currency-dogecoin-idUSL1N2M92RF"
+    >
+      <h3>
+        Dogecoin surges to record high, up almost 300% in a week - Reuters
+      </h3>
+      <h4>
+        Reuters Staff
+      </h4>
+      <p>
+        The Dogecoin cryptocurrency surged more than 90% to a record high on Friday, putting its gain for the week at almost 300%.
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.reuters.com/video/watch/idOVECDW8LN"
+    >
+      <h3>
+        Wanna lose money? Buy dogecoin -advisor - Reuters
+      </h3>
+      <h4>
+        Reuters Editorial
+      </h4>
+      <p>
+        Elon Musk's SpaceX will start accepting dogecoin for lunar missions, but Financial Freedom Wealth Management CEO Julia Carlson tells Reuters' Fred Katayama why she thinks investors are best off dodging it altogether.
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="http://techcrunch.com/2021/04/23/crypto-market-takes-a-dive-with-bitcoin-leading-the-way/"
+    >
+      <h3>
+        Crypto market takes a dive with Bitcoin leading the way
+      </h3>
+      <h4>
+        Lucas Matney
+      </h4>
+      <p>
+        Cryptocurrency prices continued to tumble Friday with Bitcoin leading the charge, with prices for the internet currency dipping below $50,000 for the first time since early March. Bitcoin is down roughly 20% week-over-week, around 30% from its all-time-high o…
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.cnet.com/news/dogecoin-price-crashes-during-elon-musks-snl-appearance/"
+    >
+      <h3>
+        Dogecoin price crashes during Elon Musk's SNL appearance - CNET
+      </h3>
+      <h4>
+        Mark Serrels
+      </h4>
+      <p>
+        Some thought Dogecoin would soar during Elon Musk's SNL appearance. They were wrong.
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.reuters.com/breakingviews/dogecoin-neednt-be-any-sillier-than-bitcoin-2021-05-12/"
+    >
+      <h3>
+        Dogecoin needn't be any sillier than bitcoin - Reuters
+      </h3>
+      <h4>
+        Reuters
+      </h4>
+      <p>
+        The 200-fold increase in the value of dogecoin over the past year is clearly a case of rabid speculation. Rival cryptocurrency bitcoin has merely quintupled over the same period. But in the long arc of financial history, there’s no reason either is sillier th…
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.reuters.com/article/us-crypto-currency-idUSKBN2CU2JC"
+    >
+      <h3>
+        Dogecoin pops after Musk tweets about 'promising' system improvements - Reuters
+      </h3>
+      <h4>
+        Reuters Staff
+      </h4>
+      <p>
+        Cryptocurrency dogecoin jumped as much as 20% on Friday after Tesla boss Elon Musk said he was involved in work to improve the token's transaction efficiency.
+      </p>
+    </a>
+  </li>
+</ul>
+`;
+
+exports[`search page displays a list of news articles, updating results based on user input 2`] = `
+<input
+  id="query"
+  type="text"
+  value=""
+/>
+`;
+
+exports[`search page displays a list of news articles, updating results based on user input 3`] = `
+<button
+  aria-label="search"
+>
+  Submit
+</button>
+`;
+
+exports[`search page displays a list of news articles, updating results based on user input 4`] = `
+Array [
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.engadget.com/elon-musk-bitcoin-221708146.html"
+    >
+      <h3>
+        Tesla 'suspends' Bitcoin car purchases citing environmental impact
+      </h3>
+      <h4>
+        https://www.engadget.com/about/editors/richard-lawler
+      </h4>
+      <p>
+        You can't buy a Tesla with Bitcoin anymore..
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.engadget.com/tesla-powerwall-plus-battery-specs-154450905.html"
+    >
+      <h3>
+        Tesla's Powerwall+ is a higher-power battery for off-grid living
+      </h3>
+      <h4>
+        https://www.engadget.com/about/editors/mariella-moon
+      </h4>
+      <p>
+        Tesla has started sending potential customers information about an upgraded Powerwall that's aptly called Powerwall+.
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.engadget.com/tesla-crash-texas-011233886.html"
+    >
+      <h3>
+        Elon Musk: Data recovered 'so far' shows Autopilot not enabled in Houston crash
+      </h3>
+      <h4>
+        https://www.engadget.com/about/editors/mat-smith
+      </h4>
+      <p>
+        Tesla 'technoking' Elon Musk said that so far, data logs show a Model S that hit a tree in Texas this weekend did not have Autopilot enabled.
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.theverge.com/2021/5/12/22433153/tesla-suspend-bitcoin-vehicle-purchase-cryptocurrency-elon-musk"
+    >
+      <h3>
+        Tesla stops taking Bitcoin for vehicle purchases, citing environmental harm
+      </h3>
+      <h4>
+        Sean O'Kane
+      </h4>
+      <p>
+        Tesla has stopped accepting bitcoin as payment for its cars out of concern that it will contribute to greater consumption of fossil fuels, according to a statement CEO Elon Musk tweeted Wednesday. Tesla had only just started accepting bitcoin in late March.
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="http://techcrunch.com/2021/04/26/tesla-grows-74-in-the-first-quarter-besting-expectations-as-its-shares-ease-after-hours/"
+    >
+      <h3>
+        Tesla grows 74% in the first quarter, besting expectations as its shares ease after-hours
+      </h3>
+      <h4>
+        Alex Wilhelm
+      </h4>
+      <p>
+        Today after the bell American electric car company Tesla reported its Q1 2021 financial performance. The company lost modest ground on the stock market after its news broke. For the broader electric vehicle and battery startup market that has pursued many SPA…
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="http://techcrunch.com/2021/04/19/no-one-behind-the-wheel-in-deadly-tesla-crash-saturday-night-say-authorities/"
+    >
+      <h3>
+        No one behind the wheel in deadly Tesla crash Saturday night, say authorities
+      </h3>
+      <h4>
+        Aria Alamalhodaei
+      </h4>
+      <p>
+        The National Highway Transportation Safety Administration is opening an investigation into a crash involving a Tesla that authorities say was operating with no one behind the wheel, which left two men dead on late Saturday evening outside of Houston. The 2019…
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="http://techcrunch.com/2021/04/20/tesla-china-backlash/"
+    >
+      <h3>
+        Tesla mulls cars tailored to China amid mounting criticisms
+      </h3>
+      <h4>
+        Rita Liao
+      </h4>
+      <p>
+        Tesla is working on vehicles tailored to Chinese consumers as complaints about the quality of its electric vehicles send shock waves through the internet in the country. The American EV giant is mulling new products that will be designed from the ground up fo…
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="http://techcrunch.com/2021/04/16/tesla-owners-can-now-see-how-much-solar-or-coal-is-powering-their-evs/"
+    >
+      <h3>
+        Tesla owners can now see how much solar or coal is powering their EVs
+      </h3>
+      <h4>
+        Kirsten Korosec
+      </h4>
+      <p>
+        Tesla owners can now see exactly what kind of energy is powering their electric vehicles. TezLab, a free app that’s like a Fitbit for a Tesla vehicle, pushed out a new feature this week that shows the energy mix — breaking down the exact types and percentages…
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.engadget.com/the-morning-after-amazon-games-studio-lord-of-the-rings-mmorpg-113030599.html"
+    >
+      <h3>
+        The Morning After: Amazon cancels its 'Lord of the Rings' MMORPG
+      </h3>
+      <h4>
+        https://www.engadget.com/about/editors/mat-smith
+      </h4>
+      <p>
+        Today’s headlines: New York caps the cost of broadband for low-income families, Amazon cancels its Lord of the Rings RPG and two die in Tesla crash with no-one at the wheel.
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.theverge.com/2021/4/24/22401253/elon-musk-hosting-saturday-night-live-miley-cyrus-tesla-spacex"
+    >
+      <h3>
+        Elon Musk is hosting Saturday Night Live and no this is not a joke
+      </h3>
+      <h4>
+        Kim Lyons
+      </h4>
+      <p>
+        Elon Musk, CEO of Tesla and SpaceX, will be hosting Saturday Night Live on May 8th, the official SNL account tweeted Saturday.
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="http://techcrunch.com/2021/04/26/tesla-wants-to-make-every-home-a-distributed-power-plant/"
+    >
+      <h3>
+        Tesla wants to make every home a distributed power plant
+      </h3>
+      <h4>
+        Aria Alamalhodaei
+      </h4>
+      <p>
+        Tesla CEO Elon Musk wants to turn every home into a distributed power plant that would generate, store and even deliver energy back into the electricity grid, all using the company’s products. While the company has been selling solar and energy storage produc…
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.theverge.com/2021/4/19/22391890/tesla-driverless-crash-texas-nhtsa-investigation"
+    >
+      <h3>
+        NHTSA is investigating the driverless Tesla crash that killed two people
+      </h3>
+      <h4>
+        Andrew J. Hawkins
+      </h4>
+      <p>
+        The fatal crash involving a Tesla vehicle with no one in the driver’s seat is now under investigation by the National Highway Traffic Safety Administration. The crash, which killed two men, took place in Texas.
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://gizmodo.com/shanghai-auto-show-disrupted-by-protester-shouting-tesl-1846710753"
+    >
+      <h3>
+        Shanghai Auto Show Disrupted by Protester Shouting 'Tesla Brakes Fail'
+      </h3>
+      <h4>
+        Matt Novak
+      </h4>
+      <p>
+        The first day of China’s Shanghai Auto Show was disrupted Monday by a protester jumping on top of a Tesla and shouting “Tesla brakes fail” before being dragged out by security, according to photos and video posted to social media sites. Read more...
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://mashable.com/article/tesla-solar-roof-powerwall-bundle/"
+    >
+      <h3>
+        Tesla to start selling solar roof only with Powerwall battery
+      </h3>
+      <h4>
+        Stan Schroeder
+      </h4>
+      <p>
+        Tesla is changing the way it sells its solar roof and solar panels. 
+According to Tesla Technoking and Imperator of Mars (check his Twitter bio) Elon Musk, the company will only sell its solar products bundled with its Powerwall battery starting next week. 
+
+…
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://mashable.com/article/elon-musk-electric-vehicle-snl-ads/"
+    >
+      <h3>
+        Elon Musk's 'SNL' appearance shows he's the face of EVs beyond Tesla
+      </h3>
+      <h4>
+        Sasha Lekach
+      </h4>
+      <p>
+        Cryptocurrencies, Mars colonization, and an unpronounceable child's name may have dominated Elon Musk's first Saturday Night Live appearance, but the Tesla CEO's influence on electric vehicles was clear from the ads that popped up during the late-night progra…
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://mashable.com/article/elon-musk-tesla-suspends-bitcoin/"
+    >
+      <h3>
+        Elon Musk says Bitcoin no longer accepted for Tesla purchases
+      </h3>
+      <h4>
+        Sasha Lekach
+      </h4>
+      <p>
+        Tesla CEO Elon Musk has changed his stance on cryptocurrency.
+Back in March, Musk announced Tesla was accepting Bitcoin for its electric cars. Earlier this year the EV company even bought $1.5 billion of the cryptocurrency.
+On Wednesday afternoon, that all en…
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.bbc.co.uk/news/business-56897457"
+    >
+      <h3>
+        Tesla: Bitcoin sales, environmental credits boost profits
+      </h3>
+      <h4>
+        https://www.facebook.com/bbcnews
+      </h4>
+      <p>
+        But the carmaker's profits were dented by a $299m payment to Tesla boss Elon Musk.
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="http://techcrunch.com/2021/04/26/tesla-sees-bitcoin-as-important-financial-tool-to-access-cash-quickly/"
+    >
+      <h3>
+        Tesla sees bitcoin as important financial tool to access cash quickly
+      </h3>
+      <h4>
+        Rebecca Bellan
+      </h4>
+      <p>
+        Tesla’s relationship with bitcoin is not a dalliance, according to the comments made by the company’s CFO and dubbed “master of coin” Zach Kirkhorn during an earnings call Monday. Instead, the company believes in the longevity of bitcoin, despite its volatili…
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.nytimes.com/2021/05/07/arts/television/saturday-night-live-elon-musk.html"
+    >
+      <h3>
+        ‘SNL’ Gets Ready for Elon Musk
+      </h3>
+      <h4>
+        Dave Itzkoff
+      </h4>
+      <p>
+        The choice to have the Tesla and SpaceX billionaire host “S.N.L.” has drawn praise, criticism and some veiled pushback from the show’s own cast members.
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.nytimes.com/2021/05/12/us/california-tesla-backseat-driver.html"
+    >
+      <h3>
+        Man Riding in Driverless Tesla Is Arrested in California
+      </h3>
+      <h4>
+        Johnny Diaz
+      </h4>
+      <p>
+        Param Sharma, 25, was arrested on charges of reckless driving. “I’m about to go in the back seat right now,” he said after being released from jail.
+      </p>
+    </a>
+  </li>,
+]
+`;
