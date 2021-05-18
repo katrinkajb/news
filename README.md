@@ -1,6 +1,6 @@
 # News Article Search
 
-Uses https://newsapi.org/ Api to get news articles
+An app that uses https://newsapi.org/ Api to get news articles and includes search functionality
 
 ## Container
     - Search Results Page 
